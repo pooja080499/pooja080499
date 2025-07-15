@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/pooja080499/pooja080499/blob/main/banner.png" alt="Pooja Sharma Banner" style="width:80%; border-radius:10px;" />
+  <img src="https://github.com/pooja080499/pooja080499/blob/main/banner.png" alt="Pooja Sharma Banner" style="width:60%; border-radius:20px;" />
 </p>
 
 
