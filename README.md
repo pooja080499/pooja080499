@@ -40,16 +40,41 @@
 
 ---
 
-## 📂 Featured Projects
-### 🚀 **DocEase**
-- 🩺 *Online Doctor Consultation System*  
-- 💻 Java | Spring Boot | MySQL | ReactJS  
-[🔗 GitHub Repo](https://github.com/pooja080499/docEase)
+<h2>📂 Featured Projects</h2>
 
-### ❤️ **CADScan**
-- 🫀 *Coronary Heart Disease Detection using ML*  
-- 💻 Python | Django | ML  
-[🔗 GitHub Repo](https://github.com/pooja080499/CAD)
+<div align="center">
+
+<!-- DOC EASE -->
+<div style="display:inline-block; margin:10px;">
+  <details>
+    <summary><b>🚀 DocEase</b></summary>
+    <br>
+    <img src="https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=java&logoColor=white">
+    <img src="https://img.shields.io/badge/SpringBoot-darkgreen?style=for-the-badge&logo=springboot&logoColor=white">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white">
+    <br><br>
+    🩺 <i>Online Doctor Consultation System</i> with appointment booking, authentication, and real-time chat.<br><br>
+    🔗 <a href="https://github.com/pooja080499/docEase">GitHub Repo</a>
+  </details>
+</div>
+
+<!-- CAD SCAN -->
+<div style="display:inline-block; margin:10px;">
+  <details>
+    <summary><b>❤️ CADScan</b></summary>
+    <br>
+    <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=black">
+    <img src="https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=django&logoColor=white">
+    <img src="https://img.shields.io/badge/ML-orange?style=for-the-badge">
+    <br><br>
+    💖 <i>Heart disease detection system</i> using ML models and health record data. Django backend with ML integration.<br><br>
+    🔗 <a href="https://github.com/pooja080499/CAD">GitHub Repo</a>
+  </details>
+</div>
+
+</div>
+
 
 ---
 
