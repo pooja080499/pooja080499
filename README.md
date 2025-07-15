@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pooja080499/pooja080499/main/banner.png" alt="Pooja Sharma Banner" style="width:100%; border-radius: 10px;">
+  <img src="https://github.com/pooja080499/pooja080499/blob/main/banner.png" alt="Pooja Sharma Banner" style="width:100%; border-radius:10px;" />
 </p>
+
 
 <h1 align="center">👋 Hi, I'm Pooja Sharma</h1>
 <h3 align="center">💻 Java Developer | 🧠 AI/ML Enthusiast | 🎓 MCA @ MNNIT</h3>
