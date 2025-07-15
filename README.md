@@ -87,12 +87,22 @@
 
 ---
 
-## 🌸 Fun Facts
-- 🎨 I love sketching and painting in my free time.  
-- 🚀 I’m currently building AI + Web full-stack projects.  
+<h2 align="center">🌸 Fun Facts</h2>
 
----
+<div align="center" style="background-color:#f5f5f5; border-radius:10px; padding:15px; box-shadow: 2px 2px 5px rgba(0,0,0,0.1); width:80%;">
+  
+  <p>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&multiline=true&width=500&height=40&lines=💡+Did+you+know%3F" alt="Typing Animation" />
+  </p>
+
+  <ul align="left">
+    <li>🎨 <b>I love sketching and painting</b> in my free time.</li>
+    <li>🚀 <b>I’m currently building AI + Web full-stack projects.</b></li>
+  </ul>
+</div>
+
+<br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=500&color=57E6E6&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🌟+Always+Learning+%7C+Building+%7C+Exploring" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=57E6E6&center=true&vCenter=true&multiline=true&width=600&height=40&lines=🌟+Always+Learning+%7C+Building+%7C+Exploring" alt="Motivational Quote" />
 </p>
